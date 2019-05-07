@@ -1,8 +1,7 @@
 {
   "name" : "DNS Abuse Galaxy-DAG",
   "type" : "dns-abuse-galaxy",
-  "description": "DNS abuse provides characteristics of DNS attack types and
-      domain tracking, rating and historical observed behaviours.",
+  "description": "DNS abuse provides characteristics of DNS attack types and domain tracking, rating and historical observed behaviours.",
   "version": 1,
   "uuid": "98774c7−8022−42c4−917f−8d6e4f06ada3"
 }
