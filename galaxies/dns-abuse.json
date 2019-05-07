@@ -1,6 +1,6 @@
 {
   "description": "DNS abuse provides characteristics of DNS attack types and domain tracking, rating and historical observed behaviours.",
-  "name": "DNS Abuse Galaxy-DAG",
+  "name": "DAG",
   "namespace": "misp",
   "type": "dns-abuse-galaxy",
   "version": 1,
